@@ -1,3 +1,3 @@
 #### Code for the Deep Research agent
--- This agent is made using the OpenAI SDK
+- This agent is made using the OpenAI SDK framework
 
